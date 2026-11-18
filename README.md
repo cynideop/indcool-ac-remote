@@ -1,3 +1,7 @@
+<img width="1220" height="2712" alt="Screenshot_2026-11-18-17-38-06-187_com cynide indcoolremote jpg" src="https://github.com/user-attachments/assets/2697a609-227a-45b3-9436-4aeb319d4fc1" />
+<img width="1220" height="2712" alt="Screenshot_2026-11-18-17-37-55-281_com cynide indcoolremote jpg" src="https://github.com/user-attachments/assets/2dc82518-03f7-47c0-bfd6-60f4f9c99f0d" />
+<img width="1220" height="2712" alt="Screenshot_2026-11-18-17-33-59-265_com android vending jpg" src="https://github.com/user-attachments/assets/42fb3ba8-15bc-47c3-9dfd-87d4c2bbe48a" />
+<img width="1220" height="2712" alt="Screenshot_2026-11-18-17-33-36-201_com android vending jpg" src="https://github.com/user-attachments/assets/dd0a1e2b-99f7-41b1-ba2a-3a813bf82553" />
 # ❄️ INDcool AC Remote
 
 A modern, lightweight, standalone Android Infrared (IR) remote control application built specifically for **INDcool Split Inverter Air Conditioners**. Engineered in native Kotlin with zero ads, zero internet permissions, and instant offline IR transmission.
